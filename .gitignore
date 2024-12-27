@@ -36,3 +36,19 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+*.apk
+
+*.lock
+*.env
+.env.*
+.idea/
+.vscode/
+*~
+*.swp
+*.log
+
+ios/build/
+ios/*.dSYM
+android/build/
+android/*.apk
